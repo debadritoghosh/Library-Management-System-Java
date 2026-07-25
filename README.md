@@ -1,5 +1,9 @@
 # 📚 Library Management System (Java)
 
+![Java](https://img.shields.io/badge/Java-26-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 A simple terminal-based Library Management System developed using Java.
 
 This project is designed for beginners who are learning Java and Object-Oriented Programming.
